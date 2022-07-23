@@ -1,0 +1,101 @@
+1
+Mixed Quiz
+10
+The end of the First World War ?
+4
+1910
+0
+1919
+0
+1918
+1
+1915
+0
+Where in the world is Leonardo da Vinci's Mona Lisa exhibited?
+5
+London
+0
+Melbrune
+0
+Baku
+0
+Madrid
+0
+Paris
+1
+Which club won the 1986 FA Cup final?
+4
+Manchester United
+0
+Real Madrid
+0
+Barcelona
+0
+Liverpool
+1
+In which year was The Godfather first released ?
+4
+1960
+0
+1972
+1
+1950
+0
+1968
+0
+Which actor play as Doctor Strange role ?
+4
+Robert Downey.JR
+0
+Tom Holand
+0
+Benedict Cumberbatch
+1
+Brad Pitt
+0
+What sports game did James Naismith invent in 1891 ?
+3
+Volleyball
+0
+FootBall
+0
+Basketball
+1
+Which football club plays its home games at Santiago Bernabeu ?
+4
+Barcelona
+0
+Real Madrid
+1
+Manchester City
+0
+Manchester United
+0
+Where Stonehenge is located ?
+4
+USA
+0
+Russia
+0
+Azerbaijan
+0
+United Kingdom
+1
+What is the capital of Finland ?
+4
+Sydney
+0
+Baku
+0
+Helsinki
+1
+London
+0
+What is the smallest country in the world ?
+3
+New Caledonia
+0
+Vatican City
+1
+Luksemburg
+0
