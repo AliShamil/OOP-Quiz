@@ -318,8 +318,9 @@ Quiz* play_q(Quiz*& quiz)
 	{
 		cout << *quiz->get_questions()[quiz->questionIndex];
 
-		cout << "\nPress space to submit";
+		cout << "\nPress 'S' or 's' to submit";
 		button = _getch();
+
 		choice = cursorControl(*quiz, button, submit);
 
 		if (choice)
