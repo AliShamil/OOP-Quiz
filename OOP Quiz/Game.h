@@ -145,7 +145,8 @@ namespace Header_files {
 									cout << "\nEnter your username: ";
 									getline(cin, username);
 									cout << "\nEnter your password: ";
-									getline(cin, password);
+									hidePassword(password);
+									//getline(cin, password);
 
 									if (check_username(players, admins, username))
 									{
@@ -176,7 +177,8 @@ namespace Header_files {
 									cout << "\nEnter your username: ";
 									getline(cin, username);
 									cout << "\nEnter your password: ";
-									getline(cin, password);
+									hidePassword(password);
+									//getline(cin, password);
 
 									if (check_username(players, admins, username))
 									{
@@ -231,7 +233,8 @@ namespace Header_files {
 									cout << "\nEnter your username : ";
 									getline(cin, username);
 									cout << "\nEnter your password: ";
-									getline(cin, password);
+									hidePassword(password);
+									//getline(cin, password);
 
 									user = findPlayer(players, username, password);
 									if (user == nullptr)
@@ -251,7 +254,8 @@ namespace Header_files {
 									cout << "Enter your username: ";
 									getline(cin, username);
 									cout << "\nEnter your password: ";
-									getline(cin, password);
+									hidePassword(password);
+									//getline(cin, password);
 
 									user = findAdmin(admins, username, password);
 									if (user == nullptr)
